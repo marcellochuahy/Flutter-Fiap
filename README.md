@@ -17,6 +17,9 @@ senha: 123456
 
 ![Captura de Tela 2021-05-03 às 22 45 24](https://user-images.githubusercontent.com/17011151/116955036-d6c86b80-ac67-11eb-94e6-10850a4c673e.png)
 
+![Captura de Tela 2021-05-03 às 22 16 52](https://user-images.githubusercontent.com/17011151/116955211-463e5b00-ac68-11eb-9810-943a4d2e811a.png)
+
+
 O documento descrevendo o app está no README do repositório.
 
 Grupo:
