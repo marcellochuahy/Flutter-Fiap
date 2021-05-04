@@ -82,24 +82,24 @@ class _HomePageState extends State<HomePage> {
             builder: (context, snapshot) {
               return ListView.builder(
                 shrinkWrap: true,
-                itemCount: snapshot.data.documents.lenght,
+                itemCount: snapshot.data.docs.length,
                 itemBuilder: (BuildContext context, int index) {
-                  DocumentSnapshot documentSnapshot = snapshot.data.documents[index];
+                  DocumentSnapshot documentSnapshot = snapshot.data.docs[index];
                   return Dismissible(
                     onDismissed: (direction) {
-                      deleteTask(documentSnapshot["title"]);
+                      deleteTask(documentSnapshot['title']);
                     },
-                    key: Key(documentSnapshot["title"]),
+                    key: Key(documentSnapshot['title']),
                     child: Card(
                       elevation: 2,
                       margin: EdgeInsets.all(8.0),
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
                       child: ListTile(
-                        title: Text(snapshot.data["title"]),
+                        title: Text(documentSnapshot['title']),
                         trailing: IconButton(
                             icon: Icon(Icons.delete, color: Colors.red),
                             onPressed: () {
-                              deleteTask(documentSnapshot["title"]);
+                              deleteTask(documentSnapshot['title']);
                             }),
                       ),
                     ),
