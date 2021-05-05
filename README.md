@@ -3,8 +3,8 @@
 20MOB / APLICAÇÕES CROSS-PLATFORM COM FLUTTER / RICARDO DA SILVA OGLIARI
 Trabalho da disciplina de Flutter / 20MOB
 
-GitHub:
-https://github.com/marcellochuahy/Flutter-Fiap
+https://user-images.githubusercontent.com/17011151/117085763-08e9d400-ad21-11eb-9437-84039c341d25.mov
+
 
 ## Tela inicial de login
 
