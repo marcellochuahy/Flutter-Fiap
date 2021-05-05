@@ -25,16 +25,12 @@ Após a validação do e-mail e senha será exibida a página *TODO List*:
 ![Captura de Tela 2021-05-04 às 21 15 17](https://user-images.githubusercontent.com/17011151/117084956-e5be2500-ad1e-11eb-9f74-a71ae3c1faea.png)
 
 
-
 ## Firebase
-
 ![Captura de Tela 2021-05-03 às 22 16 52](https://user-images.githubusercontent.com/17011151/116955211-463e5b00-ac68-11eb-9810-943a4d2e811a.png)
-
 ![Captura de Tela 2021-05-03 às 22 11 24](https://user-images.githubusercontent.com/17011151/116955524-3410ec80-ac69-11eb-8f33-788d6f340048.png)
 
-O documento descrevendo o app está no README do repositório.
 
-Grupo:
+## Grupo:
 ```
 Felipe Oliveira  | RM 338405
 Francisco Olvera | RM 338050
